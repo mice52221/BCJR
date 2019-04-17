@@ -14,6 +14,15 @@ Anaconda install [Jianshu](https://www.jianshu.com/p/eaee1fadc1e9)
 
 Pycharm install [CSDN](https://blog.csdn.net/pdcfighting/article/details/80297499)
 
-Python Matlab Coding [TecentCloud](https://cloud.tencent.com/developer/news/121069)
+Python mlab 
+
+1.pywin32 install [CSDN](https://blog.csdn.net/u013234057/article/details/81742065)
+
+2.mlab install [CSDN](https://blog.csdn.net/sunny_xsc1994/article/details/70197168)
+
+3.mlab test [TecentCloud](https://cloud.tencent.com/developer/news/121069)
 
 2019/4/16 17:36
+
+2019/4/17 15:47
+
