@@ -8,11 +8,15 @@
 
 2019/4/14 02:32 
 
+**********************************************************************
+
 Python 3.7 install 
 
 Anaconda install [Jianshu](https://www.jianshu.com/p/eaee1fadc1e9)
 
 Pycharm install [CSDN](https://blog.csdn.net/pdcfighting/article/details/80297499)
+
+**********************************************************************
 
 Python mlab 
 
