@@ -30,5 +30,7 @@ Python mlab
 
 2019/4/17 15:47
 
+matlab.abs(-1) failed, but matlab.abs(-1.5) works.
+
 Remember everything in matlab is **'double'** !
 
