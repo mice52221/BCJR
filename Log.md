@@ -34,3 +34,8 @@ matlab.abs(-1) failed, but matlab.abs(-1.5) works.
 
 Remember everything in matlab is **'double'** !
 
+**********************************************************************
+java arraylist 的用法
+
+[JAVA](https://www.tutorialspoint.com/java/util/arraylist_addall_index.htm) **A good website to learn Java**
+
