@@ -11,3 +11,7 @@ resize(shape) ： 与.reshape()功能一致，但修改原数组
 2.Python Numpy 数组的初始化和基本操作
 
 [CSDN](https://www.cnblogs.com/saryli/p/8607630.html)
+********************************************************************
+3.Numpy数组中数据类型的转换
+
+[CSDN](https://blog.csdn.net/hhu_luqi/article/details/79652351)
