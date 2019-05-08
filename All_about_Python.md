@@ -9,4 +9,5 @@ resize(shape) ： 与.reshape()功能一致，但修改原数组
 [CSDN](https://blog.csdn.net/brucewong0516/article/details/79185282)
 ********************************************************************
 2.Python Numpy 数组的初始化和基本操作
+
 [CSDN](https://www.cnblogs.com/saryli/p/8607630.html)
