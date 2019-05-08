@@ -1,6 +1,9 @@
 【python】numpy库ndarray多维数组的维度变换方法：reshape、resize、swapaxes、flatten等详解与实例
+
 numpy库对多维数组有非常灵巧的处理方式，主要的处理方法有：
 
 reshape(shape) ： 不改变数组元素，返回一个shape形状的数组，原数组不变
+
 resize(shape) ： 与.reshape()功能一致，但修改原数组
+
 [CSDN](https://blog.csdn.net/brucewong0516/article/details/79185282)
