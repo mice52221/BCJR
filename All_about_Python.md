@@ -20,3 +20,7 @@ resize(shape) ： 与.reshape()功能一致，但修改原数组
 3.Numpy数组中数据类型的转换
 
 [CSDN](https://blog.csdn.net/hhu_luqi/article/details/79652351)
+********************************************************************
+4.List 的增删改查
+[CSDN](https://blog.csdn.net/qq_35480483/article/details/81184639) 改
+[CSDN](https://blog.csdn.net/sunflower_csdn/article/details/47757071) 增删查
