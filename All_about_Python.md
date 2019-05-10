@@ -30,4 +30,4 @@ resize(shape) ： 与.reshape()功能一致，但修改原数组
 ********************************************************************
 5.list array matrix 转换
 
-[CSDN](https://blog.csdn.net/manjhOK/article/details/79583590）
+[CSDN](https://blog.csdn.net/manjhOK/article/details/79583590)
