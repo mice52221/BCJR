@@ -37,6 +37,6 @@ resize(shape) ： 与.reshape()功能一致，但修改原数组
 [CSDN](https://blog.csdn.net/kevin_7july/article/details/79289814)
 ********************************************************************
 7.numpy.split
-[SCIPY](https://docs.scipy.org/doc/numpy/reference/generated/numpy.split.html)
 
+[SCIPY](https://docs.scipy.org/doc/numpy/reference/generated/numpy.split.html)
 [CSDN](https://blog.csdn.net/mingyuli/article/details/81227629)
