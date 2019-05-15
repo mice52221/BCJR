@@ -33,4 +33,10 @@ resize(shape) ： 与.reshape()功能一致，但修改原数组
 [CSDN](https://blog.csdn.net/manjhOK/article/details/79583590)
 ********************************************************************
 6.将多维数组降至一维
+
 [CSDN](https://blog.csdn.net/kevin_7july/article/details/79289814)
+********************************************************************
+7.numpy.split
+[SCIPY](https://docs.scipy.org/doc/numpy/reference/generated/numpy.split.html)
+
+[CSDN](https://blog.csdn.net/mingyuli/article/details/81227629)
