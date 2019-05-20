@@ -40,3 +40,7 @@ resize(shape) ： 与.reshape()功能一致，但修改原数组
 
 [SCIPY](https://docs.scipy.org/doc/numpy/reference/generated/numpy.split.html)
 [CSDN](https://blog.csdn.net/mingyuli/article/details/81227629)
+********************************************************************
+8.python list initialization
+
+[CSDN](https://blog.csdn.net/EricLeiy/article/details/78590128)
